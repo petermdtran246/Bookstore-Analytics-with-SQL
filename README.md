@@ -1,6 +1,8 @@
 📘 Book Shop SQL Queries Project
 This project showcases a series of practical SQL queries performed on a fictional books table from a bookstore database. It simulates real-world reporting and data manipulation tasks that backend developers, data analysts, or database engineers might face in publishing or e-commerce industries.
 
+
+
 🧠 Problem Scenario
 You're working at a growing online bookstore. Your team needs answers to key business questions such as:
 
@@ -33,6 +35,9 @@ Multi-level sorting
 
 Aggregating and comparing numerical fields (like pages and stock_quantity)
 
+
+
+
 💻 Example Outputs
 Top 3 most recently released books
 
@@ -41,6 +46,9 @@ The longest book in the store
 Books whose titles contain "stories"
 
 Authors with double-barreled last names
+
+
+
 
 🛠 Tech Used
 MySQL / SQL
